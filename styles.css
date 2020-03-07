@@ -1,0 +1,35 @@
+body {
+  background-color: #EEEEEE;
+  font-family: 'Quicksand' ;
+}
+
+hr {
+  border-style: Dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+img:hover {
+  background-color: grey;
+}
+
+/*
+img{
+  position: fixed;
+}
+*/
+/*
+Class=
+.r{
+  background-color: red;
+}
+.e{
+  background-color: yellow;
+}
+id=
+#heading{
+ background-color: brown;
+}
+*/
